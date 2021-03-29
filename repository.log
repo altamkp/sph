@@ -1,0 +1,69 @@
+commit 5e12d707d4a7228efce30a061e32dddb9628d3b1
+Author: Kin Tam <kpt4817@spitfire.ae.ic.ac.uk>
+Date:   Mon Mar 22 12:07:05 2021 +0000
+
+    Final commit before submission
+
+A	Makefile
+M	cwMain.cpp
+M	sph.cpp
+M	sph.h
+M	sphDisp.cpp
+M	sphInit.cpp
+M	sphPara.cpp
+
+commit bb22ce679322f81641b1450fdf2ffee6918d404b
+Author: Kin Tam <kpt4817@spitfire.ae.ic.ac.uk>
+Date:   Sun Mar 21 00:20:44 2021 +0000
+
+    Fully working optimised parrallel code
+
+M	cwMain.cpp
+M	sph.cpp
+M	sph.h
+M	sphDisp.cpp
+A	sphInit.cpp
+A	sphPara.cpp
+
+commit 92606422de000514c8076c755a0ff15497e5057e
+Author: Kin Tam <kpt4817@spitfire.ae.ic.ac.uk>
+Date:   Fri Mar 12 11:46:37 2021 +0000
+
+    Last commit before parallelisation
+
+M	cwMain.cpp
+M	sph.cpp
+M	sph.h
+M	sphDisp.cpp
+
+commit c5a0fa17101b79ba7cdef9eb9312fa24bd44bcf4
+Author: Kin Tam <kpt4817@spitfire.ae.ic.ac.uk>
+Date:   Thu Mar 11 00:24:43 2021 +0000
+
+    Serial optimised
+
+M	cwMain.cpp
+M	sph.cpp
+M	sph.h
+M	sphDisp.cpp
+
+commit 7a335e946a603b1226a2c860e217a6b549d1de2f
+Author: Kin Tam <kpt4817@spitfire.ae.ic.ac.uk>
+Date:   Wed Mar 10 10:45:43 2021 +0000
+
+    Serial code working, begin optimisation
+
+M	cwMain.cpp
+M	sph.cpp
+M	sph.h
+A	sphDisp.cpp
+
+commit 35192d14c2d8c65583ae54c30164b0b6c5b6ccb1
+Author: Kin Tam <kpt4817@spitfire.ae.ic.ac.uk>
+Date:   Mon Mar 1 12:48:05 2021 +0000
+
+    Begin cw
+
+A	cwMain.cpp
+A	sph.cpp
+A	sph.h
